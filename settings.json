@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "v2qwbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "twistsmpftw.falixsrv.me",
+    "ip": "crownsmpog.falixsrv.me",
     "port": ,
     "version": "1.21.11",
     "try-creative": false
